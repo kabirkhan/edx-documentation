@@ -1,0 +1,4 @@
+Allow a learner to enroll in any available course run from a course and
+program about page (via a dialog box that features all available course run
+dates). (:JIRA:`ECOM-7262`)
+

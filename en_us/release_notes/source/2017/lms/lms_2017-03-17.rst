@@ -1,0 +1,8 @@
+Course teams can now target emails specifically to track (i.e., audit and
+verified). (:jira:`TNL-6703`)
+
+To improve accessibility, we have added a notification to our basic problems
+when 'Show Answer' is pressed. The 'Show Answer' button will now display a
+notification that indicates the answers to the given problem are available in
+line. This banner also includes a link for easy navigation to the beginning of
+the problem.  (:jira:`TNL-6356`)
